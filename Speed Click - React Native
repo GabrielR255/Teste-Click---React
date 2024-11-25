@@ -1,0 +1,8 @@
+Página projetada para criar uma experiência interativa e divertida em que o usuário tenta clicar em um botão o mais rápido possível dentro de um intervalo de tempo determinado ou para alcançar um número máximo de cliques. Essa página pode ter diversas finalidades:
+
+Características Comuns em uma Página Speed Click
+Botão Principal: Onde o usuário deve clicar repetidamente.
+Contador: Mostra o número de cliques em tempo real.
+Tempo Limite (Opcional): Um cronômetro para limitar a duração do desafio.
+Botão de Reinício: Para começar novamente a contagem ou redefinir os resultados.
+Estilo Visual: Geralmente simples, com foco em responsividade e feedback instantâneo para cliques.
